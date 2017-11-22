@@ -1,4 +1,29 @@
 /*
  * Estilos de tu proyecto
  */
- 
+
+
+
+
+#phone > img {
+   width: 300px;
+ }
+
+ .seccion-1 > nav > img {
+   width: 50px;
+ }
+ .background-purple {
+   background: linear-gradient(#72268d,#76278F, #2B1E66);
+   width: 100%;
+   height: 500px;
+ }
+
+ .footer {
+   background: #333447;
+   height: 700px;
+   width: 100%;
+   color: white;
+ }
+ .copyrigth {
+   text-align: center;
+ }
