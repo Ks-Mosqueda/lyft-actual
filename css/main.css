@@ -32,13 +32,26 @@ a{
    width: 300px;
  }
 
+.white-area {
+  width: 600px;
+  background-color: red;
+  float: right;
+}
+
+.contorno-button {
+  width: 200px;
+  height: 60px;
+  float: right;
+  margin-left: 550px;
+  margin-bottom: 20px;
+}
 .button {
    width: 80px;
    height: 30px;
    background: none;
    border-radius: 20%;
    color: white;
-   float: right;
+
  }
 
  .seccion-1 >
